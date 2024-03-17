@@ -1,2 +1,2 @@
-  const name = req.body.name;
-  const age = req.body.age;
+filterterlogic(2);
+const ans6 = int1.filter(filterlogic);
